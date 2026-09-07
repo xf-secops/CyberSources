@@ -1095,6 +1095,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | [Bitwarden](https://bitwarden.com/)                    | Freemium | A password manager that securely stores manages and syncs credentials across any browsers or devices. |
 | [LastPass](https://www.lastpass.com/es) | Free | Simplify your digital life with a password manager that automatically creates, saves, and fills strong passwords. |
 | [Proton Pass](https://proton.me/pass) | Freemium | An open-source, encrypted password manager that includes built-in 2FA and email masking (hide-my-email aliases) to protect user privacy. |
+| [Authier](https://www.authier.pm/) | Freemium | An early-stage AGPL-3.0-or-later password manager for credentials and TOTP codes, with browser extensions, a web vault, client-side encrypted sync, and trusted-device approval; not independently audited. |
 
 ### [↑](#-content) 5.3 VPNs
 
